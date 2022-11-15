@@ -1,0 +1,79 @@
+/* NAVBAR BAŞLANGIÇ */
+.nav1{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+    font-size: 32px;
+}
+a{
+    background-color: black;
+    color: white;
+}
+.nav2{
+    position: absolute;
+    top: 110px;
+    right: 20px;
+    font-size:32px;
+}
+.zuhal {
+    width: 300px;
+    top: 100px;
+    position:absolute;
+    left: 650px;
+}
+/* NAVBAR BİTİŞ */
+
+/* PİYANO */
+.kawai-img {
+    width: 640px;
+    margin-top:200px;
+}
+.roland-img {
+    width: 640px;
+}
+.sons-img {
+    width: 640px;
+}
+.piyanolar {
+    margin-left: 470px;
+}
+/* PİYANO */
+
+/* KEMAN */
+.keman{
+    margin-left: 700px;
+
+}
+.vanetta-img {
+    margin-top: 200px;
+    margin-left: -180px;
+    height: 540px;
+}
+.anton-img{
+    height: 540px;
+
+}
+.concerto-img{
+    height: 540px;
+}
+
+/* KEMAN */
+
+/* GİTAR */
+#ibanez{
+    margin-left: 560px;
+}
+.ibanez-img{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+#gretsch{
+    margin-left: 600px;
+}
+.gretsch-img{
+    margin-left: 100px;
+}
+#fender{
+    margin-left: 540px;
+}
+/* GİTAR */

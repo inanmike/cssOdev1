@@ -1,3 +1,9 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 /* NAVBAR BAŞLANGIÇ */
 .nav1{
     position: absolute;
@@ -6,8 +12,8 @@
     font-size: 32px;
 }
 a{
-    background-color: black;
-    color: white;
+    background-color: #c3d0ea;
+    color:#4e1c4c;
 }
 .nav2{
     position: absolute;
@@ -77,3 +83,59 @@ a{
     margin-left: 540px;
 }
 /* GİTAR */
+
+/* HAKKIMIZDA */
+.hikaye{
+    margin-top: 200px;
+    margin-left: 570px;
+    font-size: 64px;
+    font-family:cursive;
+}
+.foto1{
+    width: 750px;
+    margin-top: 70px;
+}
+#hakkımızda1{
+    margin-top: -300px;
+    margin-left: 850px;
+    font-family:'Courier New', Courier, monospace ;
+}
+.foto2{
+    width: 750px;
+    margin-left: 840px;
+    margin-top: 170px;
+}
+#hakkımızda2{
+    margin-top: -250px;
+    margin-left: 50px;
+    font-family:'Courier New', Courier, monospace ;
+}
+/* HAKKIMIZDA */
+
+.giris{
+    margin-top: 240px;
+    font-size: 75px;
+    color: bisque;
+    background: #272;
+}
+
+.indirim{
+    font-size: 50px;
+    margin-left: 600px;
+}
+
+/* FOOTER */
+footer{
+    padding: 7px 680px;
+    background: #666;
+    color: white;
+    margin-top: auto;
+}
+/* FOOTER */
+
+/* ILETISIM */
+.iletisim{
+    margin-top: 300px;
+    margin-left: 140px;
+}
+/* ILETISIM */
